@@ -91,3 +91,19 @@ A guy who loves challenging stuffs and learning new technologies along with the 
   [2]: http://sciruby.com/
   [3]: https://bundler.io/
   [4]: https://summerofcode.withgoogle.com/
+  
+  # Speakers Link:
+  
+  1. [Shekhar's personal webpage][1]
+ 2. [Blog][2]
+ 3. [Github][3]
+ 4. [Twitter][4]
+ 5. [LinkedIn][5]
+
+
+  [1]: http://s-hacker.info/
+  [2]: http://shekharrajak.github.io/
+  [3]: https://github.com/Shekharrajak
+  [4]: https://twitter.com/Shekharrajak
+  [5]: https://in.linkedin.com/in/shekharrajak
+  
