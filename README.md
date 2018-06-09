@@ -81,3 +81,13 @@ Now audience have understood the docker and they can learn many more powerful fe
 Prior experience with docker is not a necessity but having some exposure to Python development, version control system, Unix System is recommended.
 
 At the starting talk basic developers need, basic docker features will be covered. So **starting point, anyone (entry/intermediate)** can understand the docker concepts. Slowly moving to **docker for developers, expert Python developers** will get ideas to use docker in their development system and how they can solve most of the development conflicts because of using having multiple environments.
+
+# Speaker
+
+A guy who loves challenging stuffs and learning new technologies along with the 'Time'. Shekhar has learnt C, C++, Java in his college time and worked as student developer in Google Summer of Code (GSoC) 2016 (under [SymPy][1] organisation - Python language) and 2017 (under [SciRuby][2] organisation - Ruby language), also contributed to open source projects like [bundler][3] gem. Shekhar is mentoring 3 Projects in [GSoC'18][4]. Currently he is working in Benguluru India as Software developer (Angular 5 & Spring boot). Shekhar loves playing chess, cricket watching and reading about ancient India, spirituality and travelling.
+
+
+  [1]: http://www.sympy.org/en/index.html
+  [2]: http://sciruby.com/
+  [3]: https://bundler.io/
+  [4]: https://summerofcode.withgoogle.com/
